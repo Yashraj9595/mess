@@ -1,0 +1,37 @@
+For all designs I ask you to make, have them be beautiful, not cookie cutter. Make webpages that are fully featured and worthy for production.
+
+When using client-side hooks (useState and useEffect) in a component that's being treated as a Server Component by Next.js, always add the "use client" directive at the top of the file.
+
+Do not write code that will trigger this error: "Warning: Extra attributes from the server: %s%s""class,style"
+
+By default, this template supports JSX syntax with Tailwind CSS classes, the shadcn/ui library, React hooks, and Lucide React for icons. Do not install other packages for UI themes, icons, etc unless absolutely necessary or I request them.
+
+Use icons from lucide-react for logos.
+
+Create a responsive design for a web application using Tailwind CSS, ensuring optimal display across all mobile devices. Implement a mobile-first approach, defining base styles that adapt seamlessly to various screen sizes and orientations. The design should maintain visual consistency and provide an intuitive user experience on all mobile devices, including smartphones and tablets. Test the responsiveness across different devices and browsers to ensure consistent behavior.
+
+
+
+for backend 
+
+
+
+ Develop a secure backend system for user authentication in our project. Implement a comprehensive authentication flow that includes user registration, login, and role-based access control (user, mess-owner, admin). The system should feature a password reset mechanism with OTP (One-Time Password) verification for both registration and password recovery. Design and document the correct API endpoints for all authentication-related functionalities. Implement robust error handling across all API operations, including the use of try-catch blocks to manage exceptions gracefully. Ensure all API endpoints correctly handle GET and POST requests. The backend should be designed to be mobile-friendly, and any necessary adjustments to the frontend files to ensure mobile responsiveness should be made.@backend 
+
+
+
+
+PWA:
+
+
+
+ Implement Progressive Web App (PWA) features in the website to enhance user experience. This includes ensuring the website is installable on mobile devices, works offline, and provides push notification capabilities. Optimize the website for fast loading times and a seamless user experience, even with intermittent network connectivity. Ensure the PWA features are fully functional and meet the standards for a high-quality PWA
+
+
+
+ ui/ux/them/desing 
+
+ Develop a comprehensive UI/UX design plan for our project, ensuring all elements are thematically aligned with the project's core theme. This includes creating a cohesive visual style guide that specifies color palettes, typography, and component styling to maintain consistency across all interfaces. Focus on user-centered design principles to enhance usability and accessibility, incorporating user feedback to refine the design iteratively. The design should be responsive and adaptable to various screen sizes and devices, ensuring an optimal user experience. Include detailed mockups or prototypes to illustrate the proposed UI/UX, and specify the design rationale behind key decisions.
+
+
+ Refactor the URL routing and navigation structure of the project to ensure all URLs are correctly mapped to their respective components. Implement a clear and intuitive navigation system that allows users to easily traverse the application. The navigation should be responsive and adapt to different screen sizes. Ensure that the navigation menu is accessible and follows best practices for user experience.
